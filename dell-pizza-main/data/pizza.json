@@ -1,0 +1,172 @@
+[
+    {
+        "title": "Favorites Near You",
+        "pizza" : [
+            {
+                "image": "/assets/png/pizza/chicken pizza.jng",
+                "title": "Chicken Pizza",
+                "delivery": 20,
+                "fee": 3,
+                "price": 250
+            },
+            {
+                "image": "/assets/png/pizza/1.png",
+                "title": "Cheese Pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 500
+            },
+            {
+                "image": "/assets/png/pizza/meat pizza.jng",
+                "title": "Coca Cola",
+                "delivery": 23,
+                "fee": 3,
+                "price": 410
+            },
+            {
+                "image": "/assets/png/pizza/coca cola.jpg",
+                "title": "Coca Cola",
+                "delivery": 23,
+                "fee": 3,
+                "price": 120
+            },
+            {
+                "image": "/assets/png/pizza/Rectangle 3 (1).png",
+                "title": "Catchup",
+                "delivery": 23,
+                "fee": 3,
+                "price": 20
+            }
+            
+        ]
+    },
+    {
+        "title": "Famous Pizza",
+        "pizza" : [
+            {
+                "image": "/assets/png/pizza/1.png",
+                "title": "Cheese Pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 500
+            },
+            {
+                "image": "/assets/png/pizza/1.png",
+                "title" : "Paparony Pizza",
+                "delivery": 30,
+                "fee": 6,
+                "price": 1000
+            },
+            {
+                "image": "/assets/png/pizza/tomato pizza.jpg",
+                "title" : "Tomato pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 415
+            },
+            {
+                "image": "/assets/png/pizza/Vegetable pizza.jpg",
+                "title" : "Vegitable pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price":382
+            },{
+                "image": "/assets/png/pizza/Pizza Hut.jpg",
+                "title" : "Pizza Hut",
+                "delivery": 23,
+                "fee": 3,
+                "price":513 
+            },{
+                "image": "/assets/png/pizza/meat pizza",
+                "title" : "Meat pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 410
+            },{
+                "image": "/assets/png/pizza/bleecker.png",
+                "title" : "Bleecker Street Pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 476
+            },{
+                "image": "/assets/png/pizza/Keste Pizza & Vino.png",
+                "title" : "Keste Pizza & Vino",
+                "delivery": 23,
+                "fee": 3,
+                "price": 453
+            },{
+                "image": "/assets/png/pizza/Scarr's Pizza.png",
+                "title" : "Scarr's pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 392
+            },{
+                "image": "/assets/png/pizza/Lombardi's Pizza.png",
+                "title" : "Lombardi's Pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 482
+            },{
+                "image": "/assets/png/pizza/Marinara Pizza.png",
+                "title" : "Marinara Pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 382
+            },{
+                "image": "/assets/png/pizza/Picasso Pizza.png",
+                "title" : "Picasso Pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 434
+            },{
+                "image": "/assets/png/pizza/East Village Pizza",
+                "title" : "East Village Pizza",
+                "delivery": 23,
+                "fee": 3,
+                "price": 503
+            }
+        ]
+    },
+    {
+        "title": "Drinks",
+        "pizza" : [
+            {
+                "image": "/assets/png/pizza/coca cola.jpg",
+                "title" : "Coca Cola",
+                "delivery": 23,
+                "fee": 3,
+                "price": 120
+            },
+            {
+                "image": "/assets/png/pizza/juice.jpg",
+                "title" : "Juice",
+                "delivery": 23,
+                "fee": 3,
+                "price": 160
+            },
+            {
+                "image": "/assets/png/pizza/red bull.jpg",
+                "title" : "Red bull",
+                "delivery": 23,
+                "fee": 3,
+                "price": 175
+            },
+            {
+                "image": "/assets/png/pizza/sprite.jpg",
+                "title" : "Sprite",
+                "delivery": 23,
+                "fee": 3,
+                "price": 134
+            },
+            {
+                "image": "/assets/png/pizza/mineral water.jpg",
+                "title" : "mineral water",
+                "delivery": 23,
+                "fee": 3,
+                "price": 80
+            }
+            
+        ]
+    }
+    
+]
